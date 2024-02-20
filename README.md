@@ -1,5 +1,6 @@
 # Hand to Hand Combat Game
 A classic rock paper scissor game using python language
+
 1.) Layout of the game 
 ![preview 1 ](https://github.com/RahulSharma2109/Rock-Paper-scissor-game/assets/91956095/6203cc87-6fbc-4c1b-9d2a-42526bbd2fb6)
 2.) If its a tie 

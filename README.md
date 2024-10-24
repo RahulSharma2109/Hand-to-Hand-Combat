@@ -2,10 +2,10 @@
 A classic rock paper scissor game using python language
 
 1.) Layout of the game 
-![preview 1 ](https://github.com/RahulSharma2109/Rock-Paper-scissor-game/assets/91956095/6203cc87-6fbc-4c1b-9d2a-42526bbd2fb6)
-2.) If its a tie 
-![preview 2  png ](https://github.com/RahulSharma2109/Rock-Paper-scissor-game/assets/91956095/4895712b-12d0-4f57-b523-0aeb154c3e84)
+![Screenshot 2024-10-24 154809](https://github.com/user-attachments/assets/abe3561b-000c-4229-9407-f9146b874d53)
+2.) If its a tie
+![Screenshot 2024-10-24 160707](https://github.com/user-attachments/assets/0b6b4906-d187-4247-b76c-477b917d4c37)
 3.) If user won and computer loses
-![preview 3](https://github.com/RahulSharma2109/Rock-Paper-scissor-game/assets/91956095/4b81307e-88f7-45f7-8c89-1e0835468dc7)
+![Screenshot 2024-10-24 154913](https://github.com/user-attachments/assets/0cd49399-4d02-4e44-9dc8-1d6ad3e4107e)
 4.) If computer won and user loses
-![preview 4](https://github.com/RahulSharma2109/Rock-Paper-scissor-game/assets/91956095/90cc0d41-19e8-424f-9f98-8e41f8961eab)
+![Screenshot 2024-10-24 154841](https://github.com/user-attachments/assets/a547d155-767b-4073-886d-8a137d3489fc)

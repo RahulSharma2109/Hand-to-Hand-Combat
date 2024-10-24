@@ -35,8 +35,8 @@ user_indicator.grid(row=0, column=1)
 comp_indicator.grid(row=0, column=3)
 
 # messages
-msg = Label(root, font=50, bg="#9b59b6", fg="white")
-msg.grid(row=3, column=2)
+msg = Label(root, font=("Helvetica", 30), bg="#9b59b6", fg="white")
+msg.grid(row=1, column=2)
 
 # update message
 def updateMessage(x):
@@ -112,5 +112,6 @@ paper = Button(root, width=20, height=2, text="Paper",
                bg="#FAD02E", fg="white", command=lambda: updateChoice("paper")).grid(row=2, column=2)
 scissor = Button(root, width=20, height=2, text="Scissor",
                  bg="#0ABDE3", fg="white", command=lambda: updateChoice("scissor")).grid(row=2, column=3)
-
+exit = Button(root, width=20, height=2, text="Exit",
+              bg="cyan4", fg="white", command = root.destroy).grid(row=0, column=4)
 root.mainloop()
